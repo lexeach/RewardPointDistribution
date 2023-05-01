@@ -341,10 +341,10 @@ console.log("start");
              
                 <div  className="input-text">
                 
-                  <input value={ inputValue1 }  onChange={handleInputChange1 }  placeholder="Users List" />
+                  <input value={ inputValue1 }  onChange={handleInputChange1 }  placeholder="Merchant ID" />
                 
                 </div>
-                <a onClick={ ()=> userLists(inputValue1)}  href="#" className="btn input-btn mt-2 mt-md-0 ml-md-3">Merchant ID</a>
+                <a onClick={ ()=> userLists(inputValue1)}  href="#" className="btn input-btn mt-2 mt-md-0 ml-md-3">Users List</a>
               </div>
 
 
