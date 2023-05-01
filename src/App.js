@@ -440,11 +440,7 @@ console.log("start");
   
   </tr>
 
-  <tr  >
-    <td>Income Missed</td>
-    <td> {users.incomeMissed}</td>
   
-  </tr>
 
 
 </table>
