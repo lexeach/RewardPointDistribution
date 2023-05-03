@@ -64,7 +64,7 @@ const providerOptions = {
         setConnect(accounts[0].slice(0,4) + "..." + accounts[0].slice(-2) );
         var id = localStorage.getItem("userid")
         console.log( id);
-        setQR("https://main.d3ut8syd7hndex.amplifyapp.com/?=ref"+ id)
+        setQR("https://main.d3pi456rsjpf2j.amplifyapp.com/?=ref"+ id)
       console.log(window.location.href.toString() + "?=ref"+ accounts[0]);
       // console.log("web3model hai ye " ,account);
       } else if (window.web3) {
