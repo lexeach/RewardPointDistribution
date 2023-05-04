@@ -479,7 +479,7 @@ console.log("start");
               <ul className="d-flex list-unstyled" style={{justifyContent: 'center'}}>
                 <li>
                   <a href="https://t.me/AlexaPro_Official">
-                  <i className="fas fa-globe" />
+                  <i className="chalo chale mitwa" />
                   </a>
                 </li>
                 <li>
