@@ -478,31 +478,11 @@ console.log("start");
             <div className="social-share ml-auto">
               <ul className="d-flex list-unstyled" style={{justifyContent: 'center'}}>
                 <li>
-                  <a href="https://t.me/AlexaPro_Official">
+                  <a href="https://t.me/AlexaPro_Official"> Back</a>
                   <i className="chalo chale mitwa" />
                    <h3 className="m-0">Merchant Dashboard Info </h3>
                   </a>
-                </li>
-                <li>
-                  <a href="https://t.me/AlexaPro_OfficialNews">
-                  <i className="fas fa-globe" />
-                  </a>
-                </li>
-                <li>
-                  <a href="https://alexapro.finance">
-                    <i className="fas fa-globe" />
-                  </a>
-                </li>
                 
-              </ul>
-            </div>
-            <div className="copyright-area py-4"> <a href="#" target="_blank"></a></div>
-          </div>
-          {/* Scroll To Top */}
-          <div id="scroll-to-top" className="scroll-to-top">
-            <a href="#header" className="smooth-anchor">
-              <i className="fa-solid fa-arrow-up" />
-            </a>
           </div>
         </div>
       </div>
