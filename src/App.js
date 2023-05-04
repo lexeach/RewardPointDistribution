@@ -465,21 +465,50 @@ console.log("start");
 
   
 
+<footer className="footer-area">
+    <div className="container">
+      <div className="row justify-content-center">
+        <div className="col-12 col-md-8 text-center">
+          {/* Footer Items */}
+          <div className="footer-items">
+            {/* Logo */}
+            <a className="navbar-brand" href="/">
+              <img src="/img/logo/logo.png" alt />
+            </a>
+            <div className="social-share ml-auto">
+              <ul className="d-flex list-unstyled" style={{justifyContent: 'center'}}>
+                <li>
+                  <a href="https://t.me/AlexaPro_Official">
+                  <i className="fas fa-globe" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://t.me/AlexaPro_OfficialNews">
+                  <i className="fas fa-globe" />
+                  </a>
+                </li>
+                <li>
+                  <a href="https://alexapro.finance">
+                    <i className="fas fa-globe" />
+                  </a>
+                </li>
+                
+              </ul>
+            </div>
+            <div className="copyright-area py-4"> <a href="#" target="_blank"></a></div>
+          </div>
+          {/* Scroll To Top */}
+          <div id="scroll-to-top" className="scroll-to-top">
+            <a href="#header" className="smooth-anchor">
+              <i className="fa-solid fa-arrow-up" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -487,5 +516,6 @@ console.log("start");
     </div>
   );
 }
+
 
 export default App;
