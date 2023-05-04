@@ -478,7 +478,7 @@ console.log("start");
             <div className="social-share ml-auto">
               <ul className="d-flex list-unstyled" style={{justifyContent: 'center'}}>
                 <li>
-                  <a href="https://t.me/AlexaPro_Official"> Back</a>
+                  <a href="https://t.me/AlexaPro_Official">
                   <i className="chalo chale mitwa" />
                    <h3 className="m-0">Merchant Dashboard Info </h3>
                   </a>
