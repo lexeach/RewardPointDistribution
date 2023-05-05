@@ -186,7 +186,7 @@ console.log("start");
     var Id = await instance.methods.currUserID().call();
 
     console.log( Fees);
-    var payfess =  Fees * 100 ;
+    var payfess =  Fees ;
 
     setShow("block");
 
